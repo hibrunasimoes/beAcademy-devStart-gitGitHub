@@ -1,1 +1,3 @@
-Menu lateral
+topo do site
+menu lateral
+rodape
